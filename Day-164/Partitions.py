@@ -23,5 +23,4 @@ class Solution:
                     if v[j] - v[i] == t:
                         ans += 1
                     j += 1
-
         return ans
